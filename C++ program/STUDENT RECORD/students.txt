@@ -1,0 +1,25 @@
+---------------------------------
+ID: 1
+Name: qwe
+Year: 0
+Program: 
+Status: 
+Subjects and Grades:
+---------------------------------
+---------------------------------
+ID: 1
+Name: jjsd
+Year: 2
+Program: coe
+Status: 1
+Subjects and Grades:
+dsa: 90
+---------------------------------
+---------------------------------
+ID: 1
+Name: wee
+Year: 2
+Program: coe
+Status: 1
+Subjects and Grades:
+dsa: 90
